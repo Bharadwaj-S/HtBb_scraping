@@ -1,7 +1,7 @@
 # Hashtag Basketball scraping
 Script to scrape player projections data from Hashtag Basketball and rank them based on stats.
 
-Gets player projections from [Hashtag Basketball]('https://hashtagbasketball.com/fantasy-basketball-projections') and extract the stats in my ESPN points league game. The script outputs a CSV with the players' stats, total points based on the given `scoring` dictionary and ranks players by points.
+Gets player projections from [Hashtag Basketball](https://hashtagbasketball.com/fantasy-basketball-projections) and extract the stats in my ESPN points league game. The script outputs a CSV with the players' stats, total points based on the given `scoring` dictionary and ranks players by points.
 
 
 The `scoring` dictionary contains the weights of each stat in my league - change as necessary.
